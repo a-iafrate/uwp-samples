@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		readme..md = readme..md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckTheme", "CheckTheme\CheckTheme.csproj", "{FDD14022-E60A-4F85-8D15-E757595E5562}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -38,6 +40,24 @@ Global
 		{F65B8BE1-5789-40B5-969A-B3AD48DEA133}.Release|x86.ActiveCfg = Release|x86
 		{F65B8BE1-5789-40B5-969A-B3AD48DEA133}.Release|x86.Build.0 = Release|x86
 		{F65B8BE1-5789-40B5-969A-B3AD48DEA133}.Release|x86.Deploy.0 = Release|x86
+		{FDD14022-E60A-4F85-8D15-E757595E5562}.Debug|ARM.ActiveCfg = Debug|ARM
+		{FDD14022-E60A-4F85-8D15-E757595E5562}.Debug|ARM.Build.0 = Debug|ARM
+		{FDD14022-E60A-4F85-8D15-E757595E5562}.Debug|ARM.Deploy.0 = Debug|ARM
+		{FDD14022-E60A-4F85-8D15-E757595E5562}.Debug|x64.ActiveCfg = Debug|x64
+		{FDD14022-E60A-4F85-8D15-E757595E5562}.Debug|x64.Build.0 = Debug|x64
+		{FDD14022-E60A-4F85-8D15-E757595E5562}.Debug|x64.Deploy.0 = Debug|x64
+		{FDD14022-E60A-4F85-8D15-E757595E5562}.Debug|x86.ActiveCfg = Debug|x86
+		{FDD14022-E60A-4F85-8D15-E757595E5562}.Debug|x86.Build.0 = Debug|x86
+		{FDD14022-E60A-4F85-8D15-E757595E5562}.Debug|x86.Deploy.0 = Debug|x86
+		{FDD14022-E60A-4F85-8D15-E757595E5562}.Release|ARM.ActiveCfg = Release|ARM
+		{FDD14022-E60A-4F85-8D15-E757595E5562}.Release|ARM.Build.0 = Release|ARM
+		{FDD14022-E60A-4F85-8D15-E757595E5562}.Release|ARM.Deploy.0 = Release|ARM
+		{FDD14022-E60A-4F85-8D15-E757595E5562}.Release|x64.ActiveCfg = Release|x64
+		{FDD14022-E60A-4F85-8D15-E757595E5562}.Release|x64.Build.0 = Release|x64
+		{FDD14022-E60A-4F85-8D15-E757595E5562}.Release|x64.Deploy.0 = Release|x64
+		{FDD14022-E60A-4F85-8D15-E757595E5562}.Release|x86.ActiveCfg = Release|x86
+		{FDD14022-E60A-4F85-8D15-E757595E5562}.Release|x86.Build.0 = Release|x86
+		{FDD14022-E60A-4F85-8D15-E757595E5562}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
